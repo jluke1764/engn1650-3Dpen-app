@@ -10,3 +10,11 @@ Application code: converts usable variables to display
 * how motion is converted into display is determined by the application
 * Python/C#
 * with a different driver for windows, Ken can also use the pen with his openGL library
+
+files structure:
+  io 
+    input output interpretation
+  visualizer
+    3d space
+    drawing
+    accelerometer data?
